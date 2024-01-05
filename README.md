@@ -1,4 +1,4 @@
-## DPFL-FPGA-Accel Framework for carrying out DSE of DPFL on FPGAs that enables users to design optimized FPGA-accelerators for ML-tasks implementing privacy-preserving federated-learning with adjustable epsilon values.
+### DPFL-FPGA-Accel Framework for carrying out DSE of DPFL on FPGAs that enables users to design optimized FPGA accelerators for ML tasks implementing privacy-preserving federated learning with adjustable epsilon values.
 
 Steps to Implement DPFL-FPGA-Accel-Framework
 1. [DPFL-FPGA-Accel-Framework_CompPro](https://github.com/shakeelakram00/DPFL-FPGA-Accel-Framework/tree/main/DPFL-FPGA-Accel-Framework_CompPro) directory contains the DPFL-FPGA-Accel Framework complete flow for pre-built AI-Accel-1, AI-Accel-2, AI-Accel-3, and AI-Accel-4 for FPGA ZCU102.
