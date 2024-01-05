@@ -1,1 +1,1 @@
-
+Due to the file size issue of GitHub, "xtrain25000014x14float32.zip" is the zipped version of xtrain25000014x14float32.pth. For a smooth run xtrain25000014x14float32.pth should be extracted to the same directory i.e. AI-Accel-3and4, 
