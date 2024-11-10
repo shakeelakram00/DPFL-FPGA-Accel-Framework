@@ -27,3 +27,10 @@ Steps to build bit files for applications other than the classification of cardi
 5. Place the new dataset files in the same directory of DPFL-FPGA-Accel Flow and change the dataset files in [DPFL_Accel_5Ectopic_main](https://github.com/shakeelakram00/DPFL-FPGA-Accel-Framework/blob/main/DPFL-FPGA-Accel-Framework_CompPro/DPFL_FPGA_Accel34_Framework/DPFL_Accel_5Ectopic_main.py) with the new one.
 6. Place the generated bit and hwh files with the updated configuration file in the [DPFL-FPGA-Accel-Framework_CompPro](https://github.com/shakeelakram00/DPFL-FPGA-Accel-Framework/tree/main/DPFL-FPGA-Accel-Framework_CompPro) to run DPFL-FPGA-Accel Framework and do the DSE on the updated bit file.
 
+
+### Citation
+
+The current implementation of the framework is based on the following publication. Please consider citing it if you find it useful.
+
+Muhammad Shakeel Akram, Bogaraju Sharatchandra Varma, Dewar Finlay. DPFL-FPGA-Accel: Open Source Framework for Design Space Exploration of FPGA-Based Differential Private Federated Learning Accelerator: A Case Study with Cardiac Arrhythmia. TechRxiv. November 10, 2024.
+DOI: 10.36227/techrxiv.173121364.46610550/v1
