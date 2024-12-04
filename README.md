@@ -35,6 +35,7 @@ The current implementation of the framework is based on the following publicatio
 Muhammad Shakeel Akram, Bogaraju Sharatchandra Varma, Dewar Finlay. DPFL-FPGA-Accel: Open Source Framework for Design Space Exploration of FPGA-Based Differential Private Federated Learning Accelerator: A Case Study with Cardiac Arrhythmia. TechRxiv. November 10, 2024.
 DOI: 10.36227/techrxiv.173121364.46610550/v1
 
+```bibtex
 @article{akram2024dpfl,
   title={DPFL-FPGA-Accel: Open Source Framework for Design Space Exploration of FPGA-Based Differential Private Federated Learning Accelerator: A Case Study with Cardiac Arrhythmia},
   author={Akram, Muhammad Shakeel and Varma, Bogaraju Sharatchandra and Finlay, Dewar},
